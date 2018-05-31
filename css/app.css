@@ -104,3 +104,9 @@ button {
 #give-up:hover {
     background-color: #c7c7c7;
 }
+
+.players-img{
+    display: block;
+    margin: 0 auto 20px;
+    max-height: 150px;
+}
